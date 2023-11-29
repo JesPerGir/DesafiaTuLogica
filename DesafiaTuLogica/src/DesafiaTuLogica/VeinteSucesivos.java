@@ -18,8 +18,8 @@ public class VeinteSucesivos {
 		
 			numero = entrada.nextInt();	
 			
-			System.out.println("Los veinte números sucesivos a " + numero + " son:\n");
-			
+			System.out.println("\nLos veinte números sucesivos a " + numero + " son:\n"); 
+			//20 números posteriores sin incluir el introducido.
 		}while(numero <0);
 		
 		
