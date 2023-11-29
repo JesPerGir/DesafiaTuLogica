@@ -36,13 +36,7 @@ public class VeinteSucesivos {
 			}
 		}
 		
-		
-		entrada.close();
-		
-			
+		entrada.close();	
 	}
-		
-		
-
 }
 

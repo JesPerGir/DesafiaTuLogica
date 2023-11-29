@@ -39,7 +39,6 @@ public class NumerosUnoACien {
 			else {
 				System.out.println(i + ".");
 				System.out.print("\n" + "Un total de " + (i/numero) + " múltiplos.");
-				
 			}
 		}
 		

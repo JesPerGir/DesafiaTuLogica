@@ -18,13 +18,7 @@ public class NumerosDiezAlUno {
 			if (numero == 1){
 				
 				System.out.print(numero + ".");
-				
 			}
-			
-			
 		}
-		
-		
 	}
-
 }
