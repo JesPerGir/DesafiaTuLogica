@@ -46,7 +46,7 @@ public class AscendenteDescendente {
 			}
 		}while(num3 <0 || num3==num2 || num3==num1);
 		
-		if(num1>num2 && num1>num3) {
+		if(num1>num2 && num1>num3){
 			mayor=num1;
 			
 			if(num2>num3) {
@@ -58,8 +58,7 @@ public class AscendenteDescendente {
 				menor=num2;
 			}	
 		}
-		
-		if(num2>num3 && num2>num1) {
+		else if(num2>num3 && num2>num1){
 			mayor=num2;
 			
 			if(num3>num1) {
@@ -71,8 +70,7 @@ public class AscendenteDescendente {
 				menor=num3;
 			}	
 		}
-		
-		if(num3>num2 && num3>num1) {
+		else if(num3>num2 && num3>num1){
 			mayor=num3;
 			
 			if(num2>num1) {
