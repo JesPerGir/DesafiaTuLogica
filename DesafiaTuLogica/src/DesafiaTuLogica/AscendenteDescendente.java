@@ -82,7 +82,6 @@ public class AscendenteDescendente {
 				menor=num2;
 			}	
 		}
-		
 		do {
 			System.out.print("\nIntroduce 'ascendente' o 'descentente' para visualizar los números introducidos en uno u otro orden: ");
 			orden = entrada.next();
