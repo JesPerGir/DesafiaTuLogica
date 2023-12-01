@@ -6,7 +6,6 @@ public class AscendenteDescendente2 {
 		// TODO Auto-generated method stub
 		
 		int num1=0, num2=0, num3=0, comodin=0;
-		int menor=0, mediano=0, mayor=0;
 		String orden = "";
 
 		Scanner entrada = new Scanner(System.in);
